@@ -14,3 +14,4 @@
 ### update point 
 ![](Mockup/update_success.PNG)
 ### Add Student
+![](Mockup/Add_SinhVien.PNG)

@@ -1,5 +1,5 @@
 ## PointManager-GraphicsConsole
-### Tutorial run application Quick
+### Tutorial run application Quickly
 #### B1: Download file zip
 #### B2: run file "QuanLyDiemSinhVien.exe"
 #### require: pc must have installed devC++

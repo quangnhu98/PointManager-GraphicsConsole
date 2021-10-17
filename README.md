@@ -1,3 +1,5 @@
+I built this project when I was a 3rd-year student
+
 ## PointManager-GraphicsConsole
 ### Tutorial run application Quickly
 #### B1: Download file zip
